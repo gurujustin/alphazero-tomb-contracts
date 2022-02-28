@@ -790,7 +790,7 @@ pragma solidity 0.6.12;
 
 contract ABond is ERC20Burnable, Operator {
     /**
-     * @notice Constructs the KITTY Bond ERC-20 contract.
+     * @notice Constructs the Bond ERC-20 contract.
      */
     constructor() public ERC20("ABond", "ABOND") {}
 
