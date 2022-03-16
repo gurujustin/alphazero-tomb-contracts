@@ -1,3 +1,3 @@
 # alphazero-tomb-contracts
-tomb fork on avax
+tomb fork cotracts on avax
 pegged to 1 AVAX
